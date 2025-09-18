@@ -1,0 +1,25 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "Pregunta?",
+      "answers": [
+        "respuesta1",
+        "respuesta2",
+        "respuesta3",
+        "respuesta4"
+      ],
+      "correctAnswer": "respuesta"
+    },
+    {
+      "pregunta": "Pregunta?",
+      "answers": [
+        "respuesta1",
+        "respuesta2",
+        "respuesta3",
+        "respuesta4"
+      ],
+      "correctAnswer": "respuesta"
+    }
+  ]
+}
+
