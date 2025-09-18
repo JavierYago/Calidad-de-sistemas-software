@@ -2,23 +2,23 @@
   "preguntas": [
     {
       "pregunta": "Pregunta?",
-      "answers": [
+      "respuestas": [
         "respuesta1",
         "respuesta2",
         "respuesta3",
         "respuesta4"
       ],
-      "correctAnswer": "respuesta"
+      "respuestaCorrecta": "respuesta"
     },
     {
       "pregunta": "Pregunta?",
-      "answers": [
+      "respuestas": [
         "respuesta1",
         "respuesta2",
         "respuesta3",
         "respuesta4"
       ],
-      "correctAnswer": "respuesta"
+      "respuestaCorrecta": "respuesta"
     }
   ]
 }
